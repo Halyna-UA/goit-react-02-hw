@@ -1,7 +1,7 @@
 import React from 'react';
 import './Feedback.css';
 
-class Feedback extends React.Comment {
+class Feedback extends React.Component {
   render() {
     return (
       <div class="Feedback">
